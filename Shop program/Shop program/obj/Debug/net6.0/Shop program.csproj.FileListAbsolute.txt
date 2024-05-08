@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Shop program\Shop program\bin\Debug\net6.0\Shop program.exe
+H:\Visual Studio 2022\Shop program\Shop program\bin\Debug\net6.0\Shop program.deps.json
+H:\Visual Studio 2022\Shop program\Shop program\bin\Debug\net6.0\Shop program.runtimeconfig.json
+H:\Visual Studio 2022\Shop program\Shop program\bin\Debug\net6.0\Shop program.dll
+H:\Visual Studio 2022\Shop program\Shop program\bin\Debug\net6.0\Shop program.pdb
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.AssemblyInfo.cs
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.dll
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\refint\Shop program.dll
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.pdb
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\Shop program.genruntimeconfig.cache
+H:\Visual Studio 2022\Shop program\Shop program\obj\Debug\net6.0\ref\Shop program.dll
